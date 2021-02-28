@@ -1,6 +1,7 @@
 # ML-hotel-demand-prediction
 
 **cr. Professor Hsuan-Tien Lin, extracted from Final Project of Machine Learning Course**
+**(archived)**
 
 ## introduction
 
